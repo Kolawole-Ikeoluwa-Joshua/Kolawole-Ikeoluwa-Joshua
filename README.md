@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ikeoluwa Joshua Kolawole</h1>
 <h3 align="center">A Software Engineer with specialization in cloud DevOps & Site Reliability Engineering (SRE). Proficient with multiple programming languages, having built on academic background in Systems Engineering with professional experience developing and improving real-life software infrastructure in multidisciplinary teams. Natural self leader, passionate about building scalable systems in a collaborative work environment.</h3>
