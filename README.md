@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ikeoluwa Joshua Kolawole</h1>
-<h3 align="center">A Software Engineer with specialization in DevOps & Site Reliability Engineering (SRE).
 <br>
-Proficient with multiple programming languages, having built on academic background in Systems Engineering with professional experience developing and improving real-life software infrastructure in multidisciplinary teams. 
+<h3 align="center">
+    A Software Engineer with specialization in DevOps & Site Reliability Engineering (SRE).
+    <br>
+    <br>
+    Proficient with multiple programming languages, having built on academic background in Systems Engineering with professional experience developing and improving real-life software infrastructure in multidisciplinary teams. 
+    <br>
+    <br>
+    Natural self leader, passionate about building scalable systems in a collaborative work environment.
+</h3>
 <br>
 <br>
-Natural self leader, passionate about building scalable systems in a collaborative work environment.</h3>
-<br>
-<br>
-
 
 - 🔭 I’m currently working on [automated CI/CD pipeline](https://github.com/Kolawole-Ikeoluwa-Joshua/auto-m8.git)
 
