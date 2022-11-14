@@ -31,7 +31,6 @@
     <a href="https://www.leetcode.com/kolawole-ikeoluwa-joshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kolawole-ikeoluwa-joshua" height="30" width="40" /></a>
 </p>
 <br>
-
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p> 
@@ -60,4 +59,3 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
     <br>
 </p>
-
