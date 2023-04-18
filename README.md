@@ -16,9 +16,9 @@
 <br>
 <br>
 
-- 🔭 I’m interested in **DevOps, software development, mobile applications, and large systems development.**
+- 🔭 I’m interested in **DevOps, Software Development, Mobile Applications, and large Systems Development.**
 
-- 🌱 I’m currently building Java, Python, DevOps, Azure, AWS projects.**
+- 🌱 I’m currently building **Java, Python, DevOps, Azure, AWS projects.**
 
 - 👯 I’m looking to collaborate on exciting web projects
 
