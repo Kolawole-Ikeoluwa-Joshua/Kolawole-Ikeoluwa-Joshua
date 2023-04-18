@@ -4,9 +4,12 @@
     Systems -  DevOps (SRE) & Cloud Engineer 
     <br>
     <br>
-    Proficient with multiple programming languages
-    Academic background in Systems Engineering
-    Professional experience building scalable systems and improving real-life software infrastructure in multidisciplinary teams. 
+    - Professional experience building scalable systems and improving real-life software infrastructure in multidisciplinary teams. 
+    <br>
+    - Proficient with multiple programming languages
+    <br>
+    - Academic background in Systems Engineering
+    <br>
     <br>
     <br>
 </h3>
