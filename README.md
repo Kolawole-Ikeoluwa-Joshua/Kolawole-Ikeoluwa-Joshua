@@ -16,9 +16,9 @@
 <br>
 <br>
 
-- 🔭 I’m interested in **DevOps, Software Development, Mobile Applications, and large Systems Development.**
+- 🔭 I’m interested in **DevOps Engineering, Software Engineering.**
 
-- 🌱 I’m currently building **Microservices (Node.js, React), DevOps, Cloud projects.**
+- 🌱 I’m currently building **Microservices (Node.js, React), DevOps & Cloud projects.**
 
 - 👯 I’m looking to collaborate on exciting web projects
 
