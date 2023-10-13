@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikeoluwa Joshua Kolawole</h1>
 <br>
 <h3 align="center">
-    Systems Engineer -  DevOps(SRE) & Cloud  
+    Systems Engineer -  Infrastructure & Site Reliability Engineer  
     <br>
     <br>
     - Professional experience building scalable systems and improving real-life software infrastructure in multidisciplinary teams. 
