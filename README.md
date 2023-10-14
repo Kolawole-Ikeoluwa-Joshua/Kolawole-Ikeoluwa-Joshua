@@ -1,26 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ikeoluwa Joshua Kolawole</h1>
-<br>
-<h3 align="center">
-    DevOps Engineer | Cloud Infrastructure Specialist  
-    <br>
-    <br>
-    - Professional experience building scalable systems and improving real-life software infrastructure in multidisciplinary teams. 
-    <br>
-    - Proficient with multiple programming languages
-    <br>
-    - Academic background in Systems Engineering
-    <br>
-    <br>
-    <br>
-</h3>
-<br>
-<br>
+<h1 align="center">Ikeoluwa Joshua Kolawole</h1>
+<p align="center">
+    DevOps Engineer | Cloud Infrastructure Specialist
+</p>
 
-- 🔭 I’m interested in **DevOps Engineering, Software Engineering.**
+---
 
-- 🌱 I’m currently building **Microservices (Node.js, React), DevOps & Cloud projects.**
+👋 **Hello!**
 
-- 👯 I’m looking to collaborate on exciting web projects
+I am Ikeoluwa Joshua Kolawole, a dedicated DevOps Engineer and Cloud Infrastructure Specialist with a proven track record of building scalable systems and enhancing real-life software infrastructure within multidisciplinary teams. My professional journey has equipped me with proficiency in various programming languages and a strong academic foundation in Systems Engineering.
 
-- 📫 How to reach me **kolawoleikeoluwa2018@gmail.com**
-<br>
+🔧 **Skills & Expertise**
+- DevOps Engineering
+- Cloud Infrastructure Architecture
+- Systems Engineering
+- Programming Languages: Python, JavaScript, Bash, PowerShell
+- Tools: Docker, Kubernetes, Ansible, Terraform, Jenkins, Azure DevOps Services
+- Cloud Platforms: AWS, Azure, GCP
+
+💼 **Experience & Projects**
+- Implemented robust DevOps practices, ensuring seamless collaboration between development and operations teams.
+- Built and optimized cloud-based infrastructure, enhancing efficiency and scalability.
+- Collaborated on diverse web projects, focusing on Microservices architecture, utilizing Node.js and React.
+- Actively involved in continuous learning and innovation in the field of technology.
+
+🌱 **Current Focus**
+I am currently working on building Microservices using Node.js and React, alongside exploring advanced DevOps and cloud projects to stay ahead in the ever-evolving tech landscape.
+
+🤝 **Let's Connect!**
+- **Email:** kolawoleikeoluwa2018@gmail.com
+- **LinkedIn:** [linkedin.com/in/ikeoluwajoshuakolawole](https://www.linkedin.com/in/ikeoluwajoshuakolawole/)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+Looking forward to exciting collaborations and innovative projects! 🚀
