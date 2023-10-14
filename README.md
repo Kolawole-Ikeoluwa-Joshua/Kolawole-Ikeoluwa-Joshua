@@ -1,4 +1,3 @@
-<h1 align="center">Ikeoluwa Joshua Kolawole</h1>
 <p align="center">
     DevOps Engineer | Cloud Infrastructure Specialist
 </p>
