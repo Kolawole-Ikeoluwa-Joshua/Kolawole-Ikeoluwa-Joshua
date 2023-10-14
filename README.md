@@ -27,6 +27,5 @@ I'm building Microservices using Node.js and React, and exploring advanced DevOp
 🤝 **Let's Connect!**
 - **Email:** kolawoleikeoluwa2018@gmail.com
 - **LinkedIn:** [linkedin.com/in/ikeoluwa-joshua-kolawole](https://www.linkedin.com/in/ikeoluwa-joshua-kolawole/)
-- **GitHub:** [github.com/Kolawole-Ikeoluwa-Joshua](https://github.com/Kolawole-Ikeoluwa-Joshua/)
 
 Excited for new collaborations and innovative projects! 🚀
