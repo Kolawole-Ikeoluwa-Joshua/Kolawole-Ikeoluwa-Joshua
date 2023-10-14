@@ -14,13 +14,13 @@ I am Ikeoluwa Joshua Kolawole, a dedicated DevOps Engineer and Cloud Infrastruct
 - Cloud Infrastructure Architecture
 - Systems Engineering
 - Programming Languages: Python, JavaScript, Bash, PowerShell
-- Tools: Docker, Kubernetes, Ansible, Terraform, Jenkins, Azure DevOps Services
+- Tools: Docker, Kubernetes, Ansible, Terraform, Jenkins
 - Cloud Platforms: AWS, Azure, GCP
 
 💼 **Experience & Projects**
 - Implemented robust DevOps practices, ensuring seamless collaboration between development and operations teams.
 - Built and optimized cloud-based infrastructure, enhancing efficiency and scalability.
-- Collaborated on diverse web projects, focusing on Microservices architecture, utilizing Node.js and React.
+- Collaborated on diverse web projects, focusing on Microservices architecture, utilizing Flask, Django, Node.js, and React.
 - Actively involved in continuous learning and innovation in the field of technology.
 
 🌱 **Current Focus**
