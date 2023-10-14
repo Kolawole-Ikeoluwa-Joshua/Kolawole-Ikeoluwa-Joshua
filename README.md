@@ -21,7 +21,7 @@ I'm Ikeoluwa Joshua Kolawole, a dedicated DevOps Engineer with a focus on buildi
 - Collaborated on diverse web projects, emphasizing Microservices architecture using Flask, Django, Node.js, and React.
 - Passionate about continuous learning and innovation in technology.
 
-🌱 **Current Focus**
+🌱 **Current Focus:**
 I'm building Microservices using Node.js and React & exploring advanced DevOps/cloud projects to stay ahead in the tech landscape.
 
 🤝 **Let's Connect!**
