@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikeoluwa Joshua Kolawole</h1>
 <br>
 <h3 align="center">
-    Systems Engineer -  Infrastructure & Site Reliability Engineer  
+    DevOps Engineer | Cloud Infrastructure Specialist  
     <br>
     <br>
     - Professional experience building scalable systems and improving real-life software infrastructure in multidisciplinary teams. 
