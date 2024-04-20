@@ -1,5 +1,5 @@
 <p align="center">
-    DevOps Engineer | Cloud Infrastructure Specialist
+    DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Infrastructure Specialist
 </p>
 
 ---
