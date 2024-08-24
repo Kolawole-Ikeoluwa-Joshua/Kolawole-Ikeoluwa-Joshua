@@ -24,7 +24,7 @@ Continuous learning and problem-solving drives my commitment to staying at the f
 - Passionate about continuous learning and innovation in technology.
 
 🌱 **Current Focus:**
-I'm building Microservices using Node.js and React & exploring advanced DevOps/cloud projects to stay ahead in the tech landscape.
+Engineering Microservices & exploring advanced Software/SRE/DevOps/Cloud projects to stay ahead in the tech landscape.
 
 🤝 **Let's Connect!**
 - **Email:** kolawoleikeoluwa2018@gmail.com
