@@ -1,15 +1,17 @@
 <p align="center">
-    DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Infrastructure Specialist
+    Systems Engineer - Cloud Infrastructure | DevOps | Software | SRE
 </p>
 
 ---
 
 👋 **Hello!**
 
-I'm Ikeoluwa Joshua Kolawole, a dedicated DevOps Engineer with a focus on building scalable systems and optimizing real-life software infrastructure. Proficient in Python, JavaScript, and Bash, I specialize in Cloud Infrastructure Architecture, DevOps Engineering, and Systems Engineering.
+My expertise lies in cloud infrastructure, devops, software & site reliability engineering. I have successfully implemented cutting-edge solutions for enterprise organizations & startups.
+
+Continuous learning and problem-solving drives my commitment to staying at the forefront of technological advancements.
 
 🔧 **Skills**
-- DevOps Engineering
+- DevOps Engineering | SRE | Software
 - Cloud Infrastructure Architecture
 - Programming: Python, JavaScript, Bash
 - Tools: Docker, Kubernetes, Ansible, Terraform, Jenkins
