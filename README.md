@@ -6,7 +6,7 @@
 
 👋 **Hello!**
 
-My expertise lies in cloud infrastructure, devops, software & site reliability engineering. I have successfully implemented cutting-edge solutions for enterprise organizations & startups.
+My expertise lies in software & site reliability engineering. I have successfully implemented cutting-edge solutions for enterprise organizations & startups.
 
 Continuous learning and problem-solving drives my commitment to staying at the forefront of technological advancements.
 
