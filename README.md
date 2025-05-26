@@ -1,5 +1,5 @@
 <p align="center">
-    Systems Engineer - Cloud Infrastructure | DevOps | Software | SRE
+    SRE
 </p>
 
 ---
