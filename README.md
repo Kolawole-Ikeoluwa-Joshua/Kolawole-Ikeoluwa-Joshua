@@ -18,9 +18,13 @@ Highly accomplished Site Reliability/DevOps Engineer with 6 years of experience 
 🧾 Logging: Fluent Bit, Kibana, Elasticsearch <br>
 🌐 Service Mesh: Istio <br>
 
+🔍 Currently Exploring <br>
+I'm always curious and continuously deepening my expertise in a few key areas where technology is rapidly evolving:
 
-🌱 **Current Focus:** <br>
-Engineering Microservices & exploring advanced Software/SRE/DevOps/Cloud projects to stay ahead in the tech landscape.
+🔐 Cybersecurity & Privacy Engineering<br>
+🤖 Applied AI & Machine Learning<br>
+☁️ Cloud-Native & Distributed Systems Engineering<br>
+🧠 AI Infrastructure & MLOps<br>
 
 🤝 **Let's Connect!**
 - **Email:** kolawoleikeoluwa2018@gmail.com
