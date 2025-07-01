@@ -6,20 +6,20 @@
 💼 **Experience** <br>
 Highly accomplished Site Reliability/DevOps Engineer with 6 years of experience architecting and scaling resilient cloud infrastructure on Azure and AWS. Proven expertise in reducing deployment failures by 50%, cutting RTO/RPO by 60%+, and driving significant cost savings through automation and optimization. Passionate about building robust, observable, and efficient systems.
 
-🛠️ **Tech Stack**
-💻 Languages: Python, Bash
-🗄️ Databases: MySQL, MSSQL, MongoDB
-☁️ Cloud Platforms: Azure, AWS
-⚙️ Infrastructure as Code (IaC): Terraform, Ansible
-🚀 CI/CD Tools: Jenkins, Azure DevOps, GitHub Actions, Octopus Deploy
-📦 Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD
-📈 Monitoring & Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, Dynatrace, Datadog
-🔐 Security: SonarCloud, Checkmarx
-🧾 Logging: Fluent Bit, Kibana, Elasticsearch
-🌐 Service Mesh: Istio
+🛠️ **Tech Stack** <br>
+💻 Languages: Python, Bash <br>
+🗄️ Databases: MySQL, MSSQL, MongoDB <br>
+☁️ Cloud Platforms: Azure, AWS <br>
+⚙️ Infrastructure as Code (IaC): Terraform, Ansible <br>
+🚀 CI/CD Tools: Jenkins, Azure DevOps, GitHub Actions, Octopus Deploy <br>
+📦 Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD <br>
+📈 Monitoring & Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, Dynatrace, Datadog <br>
+🔐 Security: SonarCloud, Checkmarx <br>
+🧾 Logging: Fluent Bit, Kibana, Elasticsearch <br>
+🌐 Service Mesh: Istio <br>
 
 
-🌱 **Current Focus:**
+🌱 **Current Focus:** <br>
 Engineering Microservices & exploring advanced Software/SRE/DevOps/Cloud projects to stay ahead in the tech landscape.
 
 🤝 **Let's Connect!**
