@@ -1,33 +1,43 @@
+<h1 align="center">Ikeoluwa Joshua Kolawole</h1>
+<h3 align="center">Site Reliability/DevOps Engineer 💻🚀☁️</h3>
+
 <p align="center">
-    Site Reliability/DevOps Engineer 💻🚀☁️
+  <a href="mailto:kolawoleikeoluwa2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ikeoluwa-joshua-kolawole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
-💼 **Experience** <br>
-Highly accomplished Site Reliability/DevOps Engineer with 6 years of experience architecting and scaling resilient cloud infrastructure on Azure and AWS. Proven expertise in reducing deployment failures by 50%, cutting RTO/RPO by 60%+, and driving significant cost savings through automation and optimization. Passionate about building robust, observable, and efficient systems.
 
-🛠️ **Tech Stack** <br>
-💻 Languages: Python, Bash <br>
-🗄️ Databases: MySQL, MSSQL, MongoDB <br>
-☁️ Cloud Platforms: Azure, AWS <br>
-⚙️ Infrastructure as Code (IaC): Terraform, Ansible <br>
-🚀 CI/CD Tools: Jenkins, Azure DevOps, GitHub Actions, Octopus Deploy <br>
-📦 Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD <br>
-📈 Monitoring & Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, Dynatrace, Datadog <br>
-🔐 Security: SonarCloud, Checkmarx <br>
-🧾 Logging: Fluent Bit, Kibana, Elasticsearch <br>
-🌐 Service Mesh: Istio <br>
+### 💼 Experience
 
-🔍 Currently Exploring <br>
-I'm always curious and continuously deepening my expertise in a few key areas where technology is rapidly evolving:
+7 years building cloud infrastructure on Azure and AWS across government, enterprise, and regulated environments. I've cut deployment failures in half, brought recovery times down by over 60%, and saved companies real money by killing infrastructure they were paying for but not using. Right now I'm deep in Kubernetes platform engineering and GPU inference, running multi-model AI workloads on shared GPUs at a fraction of the typical cost.
 
-🔐 Cybersecurity & Privacy Engineering<br>
-🤖 Applied AI & Machine Learning<br>
-☁️ Cloud-Native & Distributed Systems Engineering<br>
-🧠 AI Infrastructure & MLOps<br>
+### 🛠️ Tech Stack
+💻 **Languages:** Python, Bash
+🗄️ **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Redis, pgvector
+☁️ **Cloud:** Azure, AWS
+⚙️ **IaC:** Terraform, Ansible
+🚀 **CI/CD & GitOps:** GitHub Actions, ArgoCD, Jenkins, Azure DevOps, Octopus Deploy
+📦 **Containers & Orchestration:** Kubernetes, Docker, Helm, Kyverno, KEDA
+🌐 **Networking & API Gateway:** Envoy Gateway, APISIX, Istio, Coraza WAF, cert-manager
+🔐 **Secrets & Security:** OpenBao (Vault), Azure Key Vault, SonarCloud, Checkmarx
+🛡️ **Identity:** Keycloak, Azure AD Federation
+🗃️ **Database Ops:** CloudNativePG, PgBouncer, Barman Backups
+📈 **Observability:** Prometheus, Grafana, Loki, Alloy, OpenTelemetry, Jaeger, Dynatrace, Datadog
+🧾 **Logging:** Fluent Bit, Elasticsearch, Kibana
+💾 **Backup & DR:** Velero
 
-🤝 **Let's Connect!**
-- **Email:** kolawoleikeoluwa2018@gmail.com
-- **LinkedIn:** [linkedin.com/in/ikeoluwa-joshua-kolawole](https://www.linkedin.com/in/ikeoluwa-joshua-kolawole/)
+### 🧠 AI Infrastructure & MLOps
+🟢 **GPU Compute:** NVIDIA GPU Operator, CUDA MPS, DCGM Exporter, A100 80GB
+🟢 **Model Serving:** SGLang, vLLM, HuggingFace TEI, PaddleOCR/PaddleX
+🟢 **Models in Production:** Qwen3.5-35B (GPTQ-Int4), Cohere Transcribe, Qwen3-Embedding-4B
+🟢 **Inference Engineering:** Custom LLM Gateway (FastAPI), priority routing, per-bucket concurrency, RadixAttention prefix caching, GPTQ/AWQ quantization, speculative decoding, scale-to-zero GPU (KEDA), automated benchmarking pipelines
+🟢 **AI Application Stack:** RAG pipelines with pgvector, async inference queues (Redis + ARQ), GPU observability dashboards
 
-Excited for new collaborations and innovative projects! 🚀
+### 🔍 Currently Exploring
+🔐 Cybersecurity & Privacy Engineering
+☁️ Cloud-Native & Distributed Systems
+
+### 🤝 Let's Connect!
+📧 Email: kolawoleikeoluwa2018@gmail.com
+🔗 LinkedIn: [ikeoluwa-joshua-kolawole](https://linkedin.com/in/ikeoluwa-joshua-kolawole)
