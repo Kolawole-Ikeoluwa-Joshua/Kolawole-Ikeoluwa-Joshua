@@ -1,5 +1,5 @@
 <p align="center">
-    Site Reliability/DevOps Engineer 💻🚀☁️
+    Site Reliability/Platform Engineer 💻🚀☁️
 </p>
 
 ---
