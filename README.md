@@ -21,10 +21,10 @@
 🧾 Logging: Fluent Bit, Kibana, Elasticsearch <br>
 💾 Backup & DR: Velero <br>
 🧠 AI Infrastructure & MLOps <br>
-  🟢 GPU Compute: NVIDIA GPU Operator, CUDA MPS, DCGM Exporter, A100 80GB
-  🟢 Model Serving: SGLang, vLLM, HuggingFace TEI, PaddleOCR/PaddleX
-  🟢 Models:** Qwen3.5-35B (GPTQ-Int4), Cohere Transcribe, Qwen3-Embedding-4B
-  🟢 Inference Engineering: Custom LLM Gateway (FastAPI), RadixAttention prefix caching, GPTQ/AWQ quantization, speculative decoding, scale-to-zero GPU (KEDA), automated benchmarking pipelines, RAG pipelines with pgvector, async inference queues
+  🟢 GPU Compute: NVIDIA GPU Operator, CUDA MPS, DCGM Exporter, A100 80GB <br>
+  🟢 Model Serving: SGLang, vLLM, HuggingFace TEI, PaddleOCR/PaddleX <br>
+  🟢 Models:** Qwen3.5-35B (GPTQ-Int4), Cohere Transcribe, Qwen3-Embedding-4B <br>
+  🟢 Inference Engineering: Custom LLM Gateway (FastAPI), RadixAttention prefix caching, GPTQ/AWQ quantization, speculative decoding, scale-to-zero GPU (KEDA), automated benchmarking pipelines, RAG pipelines with pgvector, async inference queues <br>
 
 🤝 **Let's Connect!**
 - **Email:** kolawoleikeoluwa2018@gmail.com
