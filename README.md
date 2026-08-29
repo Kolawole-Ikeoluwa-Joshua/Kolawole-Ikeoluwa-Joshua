@@ -4,7 +4,7 @@
 
 ---
 💼 **Experience** <br>
-7 years building cloud infrastructure on Azure and AWS across government, enterprise, and regulated environments. I've cut deployment failures in half, brought recovery times down by over 60%, and saved companies real money by killing infrastructure they were paying for but not using. Right now I'm deep in Kubernetes platform engineering and GPU inference, running multi-model AI workloads on shared GPUs at a fraction of the typical cost.
+7 years building cloud & infrastructure across government, enterprise, and regulated environments. I've cut deployment failures in half, brought recovery times down by over 60%, and saved companies real money by killing infrastructure they were paying for but not using. Right now I'm deep in Kubernetes platform engineering and GPU inference, running multi-model AI workloads on shared GPUs at a fraction of the typical cost.
 
 🛠️ **Tech Stack** <br>
 💻 Languages: Python, Bash <br>
