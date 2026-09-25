@@ -20,7 +20,8 @@
 - Observability: Prometheus, Grafana, Loki, Alloy, OpenTelemetry, Jaeger, Dynatrace, Datadog <br>
 - Logging: Fluent Bit, Kibana, Elasticsearch <br>
 - Backup & DR: Velero <br>
-🧠 AI Infrastructure & MLOps: <br>
+
+🧠 **AI Infrastructure & MLOps** <br>
 - GPU Compute: NVIDIA GPU Operator, CUDA MPS, DCGM Exporter, A100 80GB <br>
 - Model Serving: SGLang, vLLM, HuggingFace TEI, PaddleOCR/PaddleX <br>
 - Models: Qwen3.5-35B (GPTQ-Int4), Cohere Transcribe, Qwen3-Embedding-4B, Opus 5.5, Fable 5.1 <br>
